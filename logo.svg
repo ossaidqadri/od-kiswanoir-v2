@@ -1,0 +1,13 @@
+<svg viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .logo-text {
+        font-family: 'Great Vibes', cursive;
+        font-size: 52px;
+        font-weight: 400;
+        fill: currentColor;
+      }
+    </style>
+  </defs>
+  <text x="10" y="55" class="logo-text">Kiswa Noir</text>
+</svg>

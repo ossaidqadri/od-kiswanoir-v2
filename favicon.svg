@@ -1,0 +1,15 @@
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .favicon-text {
+        font-family: 'Great Vibes', cursive;
+        font-size: 48px;
+        font-weight: 400;
+        fill: #000000;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+  <rect width="128" height="128" fill="#ffffff"/>
+  <text x="64" y="85" class="favicon-text">KN</text>
+</svg>
