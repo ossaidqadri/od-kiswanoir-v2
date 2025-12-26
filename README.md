@@ -1,5 +1,8 @@
 # Kiswa Noir - Shopify Theme Documentation
 
+
+<img src="https://socialify.git.ci/ossaidqadri/od-kiswanoir-v2/image?custom_description=Kiswa+Noir+-+A+modern%2C+minimalist+Shopify+theme+built+with+Liquid%2C+Tailwind+CSS%2C+and+vanilla++JavaScript.+&description=1&font=Raleway&language=1&name=1&owner=1&stargazers=1&theme=Auto" alt="od-kiswanoir-v2" width="640" height="320" />
+
 Welcome to the Kiswa Noir theme documentation. This is a modern, minimalist Shopify theme built with Liquid, Tailwind CSS, and vanilla JavaScript.
 
 **Brand Philosophy**: "Minimalism - Accessible design by producing less & building better"
